@@ -1,8 +1,8 @@
 ##
 <div>
   <a href="https://github.com/Ocante">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ocante&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="560" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocante&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ocante&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocante&layout=compact&langs_count=16&theme=dracula"/>
 
    <div style="display: inline_block"><br>
   <img align="center" alt="Oca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -24,8 +24,6 @@
   <a href="https://www.linkedin.com/in/ocante-antonio-i%C3%A9-a213b6b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://https://twitter.com/bless_ocn" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </div>
-  
-  ![Snake animation](https://github.com/ocante/ocante/blob/output/github-contribution-grid-snake.svg)
 
  
 - 🔭  Procuro colaborar em projetos, compartilhar meu conhecimento e experiências com outros profissionais.
