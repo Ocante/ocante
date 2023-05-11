@@ -24,14 +24,7 @@
   
 ![Snake animation](https://github.com/Ocante/ocante/blob/output/github-contribution-grid-snake.cvg)
   
- 
--->
-- 🔭 Atualmente estou trabalhando com Análise, suporte e desenvolvimento de sistemas.
+
+- 🔭  Procuro colaborar em projetos, compartilhar meu conhecimento e experiências com outros profissionais.
 - 🌱 Atualmente estou aprendendo diferentes tecnologias, ferramentas e liguagens de programação.
-- 👯 Procuro colaborar em projetos, compartilhar meu conhecimento e experiências com outros profissionais.
-- 🤔 Procuro dar suporte no que estiver ao meu alcance, de maneira humilde.
-- 💬 Pergunte-me sobre qualquer assunto, lhe darei o direcionamento, caso não seja do meu conhecimento.
-- 📫 Como chegar até mim: Pode me contatar pelas redes sociais aqui disponíveis.
-- ⚡ Fato engraçado: Estava me procurando? Agora achou e o que esta esperando?
--->
  ##
