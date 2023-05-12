@@ -25,7 +25,8 @@
   <a href="https://discord.gg/kbQMsHZVwp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "blessdevelopereng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ocante-antonio-i%C3%A9-a213b6b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://https://twitter.com/bless_ocn" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://https://twitter.com/bless_ocn" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=pink" target="_blank"></a>
+  <a href="https://github.com/Ocante" target="_blank"><img src="https://img.shields.io/badge/-github-%230077B5?style=for-the-badge&logo=github&logoColor=red" target="_blank"></a>
   </div>
 
 ##
