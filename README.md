@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/Ocante">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ocante&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocante&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocante&layout=compact&langs_count=16&theme=dracula"/>
 
 ##
    <div style="display: inline_block"><br>
