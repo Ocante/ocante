@@ -19,7 +19,6 @@
   <img align="center" alt="Oca-Mysql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Oca-SQL" height="40" width="60" src="https://img.icons8.com/?size=100&id=13406&format=png&color=000000" />
   <img align="center" alt="Oca-Microsoftsqlserver" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />       
-  </div>
   <img align="center" alt="Oca-Java" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     
  ##
