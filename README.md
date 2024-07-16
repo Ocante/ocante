@@ -8,7 +8,7 @@
   ##
   <div style="display: inline_block"><br>
   <img align="center" alt="Oca-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Oca-PowerBI" height="40" width="60" src="  https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000
+  <img align="center" alt="Oca-PowerBI" height="40" width="60" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000">
   <img align="center" alt="Oca-Csharp" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Oca-Linux" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Oca-Markdown" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
