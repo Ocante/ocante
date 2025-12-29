@@ -147,9 +147,3 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
-
-```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
-```
-<!--END_SECTION:waka-->
-![views since 2021/08/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
