@@ -1,4 +1,4 @@
-# 👨🏿‍💻 Ocante António
+# 👨🏿‍💻 Ocante António 🌐
 
 **`Software Engineer & Researcher `**
 
@@ -24,7 +24,7 @@ Interested in software architecture, clean code, system design, engineering prin
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
          
 <img 
@@ -168,7 +168,7 @@ Interested in software architecture, clean code, system design, engineering prin
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 <p align="center">
   <img 
     align="left" 
