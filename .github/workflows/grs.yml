@@ -19,7 +19,7 @@ jobs:
           card: stats
           options: username=Ocante&show_icons=true&theme=radical
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN}}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -27,7 +27,7 @@ jobs:
           card: top-langs
           options: username=Ocante&layout=compact&theme=radical
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit cards
         run: |
