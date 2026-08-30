@@ -1,5 +1,3 @@
-# 👨🏿‍💻 Ocante António 🌐
-
 **`Software Engineer & Researcher `**
 
 Building software with discipline, technical depth, and a constant commitment to learning.
